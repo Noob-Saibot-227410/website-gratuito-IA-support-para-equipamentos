@@ -6,11 +6,7 @@
 # Como usar
 <p> Para utilizar o sistema, basta acessar o website e escolher a opção desejada na página inicial. As opções disponíveis são: </p>
 
-* Instalar software: permite instalar softwares em seu computador de forma rápida e fácil, sem a necessidade de conhecimentos técnicos.
-
-* Diagnosticar problema: realiza um diagnóstico do computador para identificar problemas e possíveis soluções.
-
-* Solucionar problema: executa a solução do problema identificado pelo diagnóstico.
+* Só abrir a página index
 
 # Requisitos
 <p> Para utilizar o sistema, é necessário ter um navegador web atualizado e uma conexão com a internet. </p>
